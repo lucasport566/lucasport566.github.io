@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#07140c"/><stop offset="1" stop-color="#020705"/>
+  </linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#32e875" stop-opacity=".20"/><stop offset="1" stop-color="#ffd447" stop-opacity=".06"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1280" height="720" rx="34" fill="url(#bg)"/>
+<rect x="24" y="24" width="1232" height="672" rx="28" fill="#09140d" stroke="#ffffff" stroke-opacity=".10" filter="url(#shadow)"/>
+<rect x="24" y="24" width="1232" height="86" rx="28" fill="url(#top)"/>
+<circle cx="62" cy="67" r="8" fill="#ff6b6b"/><circle cx="88" cy="67" r="8" fill="#ffd447"/><circle cx="114" cy="67" r="8" fill="#32e875"/>
+<text x="154" y="62" fill="#f7fff9" font-family="Arial, sans-serif" font-size="27" font-weight="700">Mercado e táticas</text>
+<text x="154" y="87" fill="#91a497" font-family="Arial, sans-serif" font-size="15">Monte o elenco ideal e encontre a formação perfeita</text>
+<rect x="1080" y="49" width="130" height="36" rx="18" fill="#32e875" fill-opacity=".12" stroke="#32e875" stroke-opacity=".35"/>
+<circle cx="1102" cy="67" r="5" fill="#32e875"/>
+<text x="1117" y="73" fill="#32e875" font-family="Arial, sans-serif" font-size="14" font-weight="700">ONLINE</text>
+
+<text x="72" y="154" fill="#f7fff9" font-family="Arial" font-size="27" font-weight="800">Mercado de transferências</text>
+<text x="72" y="181" fill="#8da194" font-family="Arial" font-size="14">Encontre reforços e negocie com outros clubes</text>
+
+<rect x="72" y="200" width="540" height="62" rx="15" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="108" cy="231" r="19" fill="#1d3a27"/>
+<text x="108" y="237" text-anchor="middle" fill="#32e875" font-family="Arial" font-size="12" font-weight="900">ATA</text>
+<text x="142" y="227" fill="#f7fff9" font-family="Arial" font-size="16" font-weight="800">Matheus Silva</text>
+<text x="142" y="248" fill="#809286" font-family="Arial" font-size="12">Overall 82</text>
+<text x="574" y="237" text-anchor="end" fill="#ffd447" font-family="Arial" font-size="14" font-weight="800">R$ 18 mi</text>
+<rect x="72" y="278" width="540" height="62" rx="15" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="108" cy="309" r="19" fill="#1d3a27"/>
+<text x="108" y="315" text-anchor="middle" fill="#32e875" font-family="Arial" font-size="12" font-weight="900">MEI</text>
+<text x="142" y="305" fill="#f7fff9" font-family="Arial" font-size="16" font-weight="800">João Vitor</text>
+<text x="142" y="326" fill="#809286" font-family="Arial" font-size="12">Overall 79</text>
+<text x="574" y="315" text-anchor="end" fill="#ffd447" font-family="Arial" font-size="14" font-weight="800">R$ 12 mi</text>
+<rect x="72" y="356" width="540" height="62" rx="15" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="108" cy="387" r="19" fill="#1d3a27"/>
+<text x="108" y="393" text-anchor="middle" fill="#32e875" font-family="Arial" font-size="12" font-weight="900">ZAG</text>
+<text x="142" y="383" fill="#f7fff9" font-family="Arial" font-size="16" font-weight="800">Renan Costa</text>
+<text x="142" y="404" fill="#809286" font-family="Arial" font-size="12">Overall 80</text>
+<text x="574" y="393" text-anchor="end" fill="#ffd447" font-family="Arial" font-size="14" font-weight="800">R$ 15 mi</text>
+<rect x="72" y="434" width="540" height="62" rx="15" fill="#ffffff" fill-opacity=".035"/>
+<circle cx="108" cy="465" r="19" fill="#1d3a27"/>
+<text x="108" y="471" text-anchor="middle" fill="#32e875" font-family="Arial" font-size="12" font-weight="900">VOL</text>
+<text x="142" y="461" fill="#f7fff9" font-family="Arial" font-size="16" font-weight="800">Lucas Bahia</text>
+<text x="142" y="482" fill="#809286" font-family="Arial" font-size="12">Overall 77</text>
+<text x="574" y="471" text-anchor="end" fill="#ffd447" font-family="Arial" font-size="14" font-weight="800">R$ 8 mi</text>
+<rect x="72" y="535" width="540" height="54" rx="15" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="342" y="568" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="900">VER TODOS OS JOGADORES</text>
+<rect x="680" y="148" width="508" height="442" rx="24" fill="#0b3a22" stroke="#ffffff" stroke-opacity=".10"/>
+<rect x="703" y="171" width="462" height="396" rx="16" fill="#0c5a31"/>
+<line x1="934" y1="171" x2="934" y2="567" stroke="#ffffff" stroke-opacity=".40" stroke-width="2"/>
+<circle cx="934" cy="369" r="56" fill="none" stroke="#ffffff" stroke-opacity=".40" stroke-width="2"/>
+<rect x="703" y="291" width="72" height="158" fill="none" stroke="#ffffff" stroke-opacity=".40" stroke-width="2"/>
+<rect x="1093" y="291" width="72" height="158" fill="none" stroke="#ffffff" stroke-opacity=".40" stroke-width="2"/>
+<circle cx="930" cy="215" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="930" y="220" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">GOL</text><circle cx="820" cy="320" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="820" y="325" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">LE</text><circle cx="900" cy="335" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="900" y="340" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">ZAG</text><circle cx="1000" cy="335" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="1000" y="340" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">ZAG</text><circle cx="1080" cy="320" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="1080" y="325" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">LD</text><circle cx="860" cy="455" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="860" y="460" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">VOL</text><circle cx="950" cy="445" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="950" y="450" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">MEI</text><circle cx="1040" cy="455" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="1040" y="460" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">MEI</text><circle cx="825" cy="565" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="825" y="570" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">PE</text><circle cx="950" cy="590" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="950" y="595" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">ATA</text><circle cx="1075" cy="565" r="24" fill="#32e875" stroke="#b8ffcc" stroke-opacity=".45"/><text x="1075" y="570" text-anchor="middle" fill="#06210e" font-family="Arial" font-size="10" font-weight="900">PD</text>
+<rect x="1013" y="178" width="135" height="34" rx="12" fill="#07140c" fill-opacity=".75"/>
+<text x="1080" y="200" text-anchor="middle" fill="#f7fff9" font-family="Arial" font-size="13" font-weight="800">4-3-3 OFENSIVO</text>
+
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#07140c"/><stop offset="1" stop-color="#020705"/>
+  </linearGradient>
+  <linearGradient id="top" x1="0" y1="0" x2="1" y2="0">
+    <stop stop-color="#32e875" stop-opacity=".20"/><stop offset="1" stop-color="#ffd447" stop-opacity=".06"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-opacity=".45"/></filter>
+</defs>
+<rect width="1280" height="720" rx="34" fill="url(#bg)"/>
+<rect x="24" y="24" width="1232" height="672" rx="28" fill="#09140d" stroke="#ffffff" stroke-opacity=".10" filter="url(#shadow)"/>
+<rect x="24" y="24" width="1232" height="86" rx="28" fill="url(#top)"/>
+<circle cx="62" cy="67" r="8" fill="#ff6b6b"/><circle cx="88" cy="67" r="8" fill="#ffd447"/><circle cx="114" cy="67" r="8" fill="#32e875"/>
+<text x="154" y="62" fill="#f7fff9" font-family="Arial, sans-serif" font-size="27" font-weight="700">Escolha seu clube</text>
+<text x="154" y="87" fill="#91a497" font-family="Arial, sans-serif" font-size="15">Grandes times do futebol brasileiro em uma temporada completa</text>
+<rect x="1080" y="49" width="130" height="36" rx="18" fill="#32e875" fill-opacity=".12" stroke="#32e875" stroke-opacity=".35"/>
+<circle cx="1102" cy="67" r="5" fill="#32e875"/>
+<text x="1117" y="73" fill="#32e875" font-family="Arial, sans-serif" font-size="14" font-weight="700">ONLINE</text>
+
+<rect x="76" y="164" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="132" cy="226" r="34" fill="#d62828" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="132" y="233" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">FLA</text>
+<text x="180" y="216" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Flamengo</text>
+<text x="180" y="243" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="102" y="282" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="201" y="307" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="362" y="164" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="418" cy="226" r="34" fill="#159447" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="418" y="233" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">PAL</text>
+<text x="466" y="216" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Palmeiras</text>
+<text x="466" y="243" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="388" y="282" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="487" y="307" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="648" y="164" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="704" cy="226" r="34" fill="#e9ecef" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="704" y="233" text-anchor="middle" fill="#07140c" font-family="Arial" font-size="17" font-weight="900">COR</text>
+<text x="752" y="216" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Corinthians</text>
+<text x="752" y="243" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="674" y="282" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="773" y="307" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="934" y="164" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="990" cy="226" r="34" fill="#ef233c" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="990" y="233" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">SAO</text>
+<text x="1038" y="216" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">São Paulo</text>
+<text x="1038" y="243" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="960" y="282" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="1059" y="307" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="76" y="394" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="132" cy="456" r="34" fill="#2474c6" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="132" y="463" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">BAH</text>
+<text x="180" y="446" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Bahia</text>
+<text x="180" y="473" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="102" y="512" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="201" y="537" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="362" y="394" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="418" cy="456" r="34" fill="#43a5dc" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="418" y="463" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">GRE</text>
+<text x="466" y="446" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Grêmio</text>
+<text x="466" y="473" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="388" y="512" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="487" y="537" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="648" y="394" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="704" cy="456" r="34" fill="#d90429" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="704" y="463" text-anchor="middle" fill="#ffffff" font-family="Arial" font-size="17" font-weight="900">INT</text>
+<text x="752" y="446" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Internacional</text>
+<text x="752" y="473" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="674" y="512" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="773" y="537" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+<rect x="934" y="394" width="250" height="190" rx="22" fill="#101f16" stroke="#ffffff" stroke-opacity=".09"/>
+<circle cx="990" cy="456" r="34" fill="#f7f7f7" stroke="#ffffff" stroke-opacity=".18"/>
+<text x="990" y="463" text-anchor="middle" fill="#07140c" font-family="Arial" font-size="17" font-weight="900">CAM</text>
+<text x="1038" y="446" fill="#f7fff9" font-family="Arial" font-size="20" font-weight="700">Atlético-MG</text>
+<text x="1038" y="473" fill="#8da194" font-family="Arial" font-size="14">Elenco 2026</text>
+<rect x="960" y="512" width="198" height="40" rx="12" fill="#32e875" fill-opacity=".10" stroke="#32e875" stroke-opacity=".24"/>
+<text x="1059" y="537" text-anchor="middle" fill="#8ff5af" font-family="Arial" font-size="14" font-weight="700">ESCOLHER CLUBE</text>
+</svg>

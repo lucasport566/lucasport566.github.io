@@ -616,6 +616,62 @@
 
   </style>
 </head>
+  <!-- Botão flutuante WhatsApp - Brasfoot Online -->
+<a href="https://wa.me/5571999999999?text=Olá!%20Quero%20saber%20mais%20sobre%20o%20Brasfoot%20Online."
+   class="whatsapp-float"
+   target="_blank"
+   rel="noopener noreferrer">
+   <span>💬</span>
+</a>
+
+<style>
+.whatsapp-float {
+  position: fixed;
+  width: 62px;
+  height: 62px;
+  bottom: 25px;
+  right: 25px;
+  background-color: #25D366;
+  color: #ffffff;
+  border-radius: 50%;
+  text-align: center;
+  font-size: 32px;
+  box-shadow: 0 4px 14px rgba(0,0,0,0.3);
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  animation: pulseWhats 1.5s infinite;
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.08);
+  background-color: #1ebe5d;
+}
+
+@keyframes pulseWhats {
+  0% {
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+  }
+  70% {
+    box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0);
+  }
+}
+
+@media (max-width: 600px) {
+  .whatsapp-float {
+    width: 56px;
+    height: 56px;
+    font-size: 28px;
+    bottom: 18px;
+    right: 18px;
+  }
+}
+</style>
 <body>
   <div class="topbar">⚽ PRÉ-VENDA ABERTA — VAGAS FUNDADORAS COM PREÇO ESPECIAL</div>
 
